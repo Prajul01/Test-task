@@ -43,7 +43,7 @@ class BlogSeeder extends Seeder
                   m nulla. Risus quis varius quam quisque id. Lectus urna duis convallis convallis tellus. Id venenatis a co
                   ndimentum vitae sapien pellentesque.',
 
-                'image'=>'1669915436_20201003_101417.jpg',
+                'image'=>'1713903722_6686a3142cb232c5afd2b351ecc6a36c.jpg',
                 'status'=> 1,
             ],
             [

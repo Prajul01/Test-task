@@ -22,8 +22,7 @@
 
                 </a></h2>
 
-            <div style="border: 1px solid red"
-                 >
+            <div >
 
                 <div class="row">
                     <div class="justify-text animate-box">

@@ -17,7 +17,7 @@ use App\Http\Controllers\backnend\BlogController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('auth.login');
 });
 
 Auth::routes();
